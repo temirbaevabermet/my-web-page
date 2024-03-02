@@ -1,0 +1,12 @@
+@media only screen and (max-width: 400px) {
+    .image {
+        width: 90%;
+        height: 90%;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .image {
+        width: 90%;
+        height: 90%;
+    }
+}
